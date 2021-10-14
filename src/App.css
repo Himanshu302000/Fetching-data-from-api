@@ -1,0 +1,7 @@
+.data{
+  display: flex;
+  flex-wrap: wrap;
+}
+.img{
+  margin-left: 20px;
+}
